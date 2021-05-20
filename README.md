@@ -1,2 +1,3 @@
-# Hello-World
-Um projeto pra a vida!
+# Hello-Worlo
+
+Projeto para a vida!
